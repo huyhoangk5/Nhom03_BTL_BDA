@@ -4,7 +4,7 @@ Báo cáo Bài tập lớn môn **Phân tích Dữ liệu lớn (Big Data Analyt
 
 ---
 
-## 📌 Thông tin chung
+## Thông tin chung
 - **Đề tài:** PHÂN TÍCH VÀ XÂY DỰNG MÔ HÌNH DỰ ĐOÁN MẮC BỆNH TIỂU ĐƯỜNG SỬ DỤNG BỘ DỮ LIỆU DIABETES
 - **Tập dữ liệu gốc (Kaggle):** [Diabetes Dataset - Ankit Batra](https://www.kaggle.com/datasets/ankitbatra1210/diabetes-dataset) (Quy mô: 70.000 dòng, 34 thuộc tính, 13 thể bệnh tiểu đường khác nhau).
 - **Tài liệu Báo cáo chi tiết (Google Docs):** [Báo cáo BTL Nhóm 03](https://docs.google.com/document/d/1ag3rUzlGgeqpg1S8HndxZD-8Jwzw5NgTqOVC_bxllAE/edit?usp=sharing)
@@ -12,7 +12,7 @@ Báo cáo Bài tập lớn môn **Phân tích Dữ liệu lớn (Big Data Analyt
 
 ---
 
-## 📂 Cấu trúc và Nội dung chi tiết của Chương trình (`ChuongTrinh.ipynb`)
+## Cấu trúc và Nội dung chi tiết của Chương trình (`ChuongTrinh.ipynb`)
 
 Chương trình được tổ chức tuần tự, chặt chẽ gồm 3 phần chính từ khám phá dữ liệu, xây dựng mô hình phân loại đa lớp đến thực nghiệm đo lường hiệu năng tính toán phân tán:
 
@@ -137,7 +137,7 @@ Mục tiêu: Đánh giá độc lập 5 thuật toán học máy phổ biến v�
 
 ---
 
-## 🛠️ Hướng dẫn cài đặt và Chạy chương trình
+## Hướng dẫn cài đặt và Chạy chương trình
 
 ### 1. Yêu cầu hệ thống
 - Python $\ge$ 3.10
